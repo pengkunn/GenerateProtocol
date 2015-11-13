@@ -1,0 +1,10 @@
+﻿#pragma once
+#include "msg/gate.h"
+#include "msg/game.h"
+#include "share/xmsg_packer.h"
+#include "share/xmsg_parser.h"
+#include "share/define.h"
+#include <string>
+#include <list>
+using std::string;
+using std::list;
